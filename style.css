@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+	background-image: dog.gif;
+}
+
+#profile {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+#aboutme {
+	max-width: 500px;
+	color: red;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#projects {
+	column-count: 2;
+}
+
+.projdesc {
+	max-width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
